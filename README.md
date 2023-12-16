@@ -1,1 +1,1 @@
-# Forecasting-cause-of-death-mortality-with-single-and-multi-population-models-in-Hungary
+This repository is the online appendix to the paper 'Forecasting cause-of-death mortality with single- and multi-population models in Hungary'. I am grateful to the Cooperative Doctoral Programme of the Ministry of Culture and Innovation financed by the National Research, Development and Innovation Fund.
